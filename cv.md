@@ -14,3 +14,8 @@ HTML,CSS,JS, Java core
 #####  Education:
 Vitebsk state technological university (Automation Engineer)
 Online courses: HTMLacademy.ru , Javarush.ru
+##### Work experience
+PLC and HMI programming for industrial Automation.
+
+##### Languages: 
+English(A2), Polish(B2), Russian(Native)
